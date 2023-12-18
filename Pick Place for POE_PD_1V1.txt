@@ -1,0 +1,50 @@
+Altium Designer Pick and Place Locations
+C:\projects\AS610i01-在线传感器\发板工程\POE测试板\rev1V1\POE_PD_1V1 (2023-8-18 13-45-52)\Project Outputs for POE_PD_1V1\Pick Place for POE_PD_1V1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       18/12/23
+Time:       15:53
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Layer    Footprint          Center-X(mil) Center-Y(mil) Rotation 
+R103       TopLayer JLC_R0402          1477.960      720.870       0        
+D102       TopLayer LED0402            1362.000      721.000       0        
+C105       TopLayer RES1206            1522.102      913.000       180      
+C118       TopLayer RES1206            912.898       601.000       0        
+C104       TopLayer CAP0603N           570.500       934.504       90       
+C102       TopLayer RES1206            224.398       923.500       0        
+T101       TopLayer EP7                917.646       864.787       0        
+R102       TopLayer JLC_R0402          517.000       552.377       270      
+R101       TopLayer JLC_R0402          645.000       772.040       270      
+C115       TopLayer JLC_C0402          435.000       543.540       270      
+C114       TopLayer JLC_C0402          475.000       543.540       270      
+C113       TopLayer JLC_C0402          605.000       780.460       90       
+C111       TopLayer JLC_C0402          310.504       811.460       270      
+C107       TopLayer JLC_C0402          1510.540      1015.000      0        
+C101       TopLayer CAP0603N           1384.496      1013.000      0        
+C112       TopLayer CAP0805            444.000       925.000       0        
+P101       TopLayer HDR1X2             1386.000      1152.000      180      
+P102       TopLayer HDR1X2             484.500       -4.000        180      
+R110       TopLayer RES1206            1366.000      873.898       90       
+D101       TopLayer POWERDI5           1224.780      926.614       270      
+L103       TopLayer RES1206            66.000        474.898       90       
+L102       TopLayer RES1206            301.000       474.898       90       
+U103       TopLayer SOP510P1005X363-4N 330.740       198.394       180      
+U102       TopLayer QFN-19(3X4)        457.155       743.900       0        
+R121       TopLayer JLC_R0402          396.000       552.376       270      
+R116       TopLayer JLC_R0402          556.000       552.376       270      
+R115       TopLayer JLC_R0402          310.960       643.000       180      
+R113       TopLayer JLC_R0402          292.960       707.000       180      
+R109       TopLayer JLC_R0402          292.960       746.000       0        
+L101       TopLayer IND-SMD_L7.0-W6.6  342.997       1123.500      0        
+D104       TopLayer DO-214AC-B(UT)     84.000        729.999       270      
+C117       TopLayer JLC_C0402          594.000       654.460       270      
+C110       TopLayer RES1206            1522.102      824.000       180      
+C109       TopLayer CAP0603            207.000       693.000       270      
+C108       TopLayer CAP0603            184.000       408.000       180      
+C106       TopLayer CAP0603            181.000       535.000       180      
+C103       TopLayer RES1206            645.500       972.102       90       
